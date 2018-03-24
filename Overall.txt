@@ -1,2 +1,3 @@
 Let's test out the git stuff.
 This is my first edit.
+This is in the new branch New Idea
